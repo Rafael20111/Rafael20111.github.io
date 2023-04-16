@@ -1,0 +1,50 @@
+img{
+    width:70;
+}
+.a{
+    color:red;
+}
+body{
+    background-image:url(Москва1.jpg);
+}
+header{
+    background-color:green;
+}
+main{
+    padding: 10px 5%;
+    background-color:white;
+}
+.b{
+    color:blue;
+    background-color:grey;
+}
+.c{
+    color:yellow;
+}
+.d{
+    color:green;
+}
+.e{
+    color:brown;
+}
+.f{
+    color:grey;
+}
+.g{
+    color:blue;
+}
+.h{
+    color:white;
+}
+.i{
+    color:black;
+}
+.j{
+    color:orange;
+}
+.k{
+    color:pink;
+}
+.l{
+    color:violet;
+}
